@@ -1,5 +1,5 @@
-ACCESS CONTROL POLICY
-Version: 1.0 Approval Date: (insert date) Owner: Information Security Officer (ISO) Classification: Internal / Restricted
+ACCESS CONTROL POLICY  
+Version: 1.0 Approval Date: (insert date) Owner: Information Security Officer (ISO) Classification: Internal / Restricted  
 ________________________________________
 1. Purpose
 The purpose of this Access Control Policy is to establish requirements for managing user access to Veltrix Pay's information systems, applications, networks, and data in accordance with NIST SP 800-53 Rev5, ensuring confidentiality, integrity, and availability of payment processing infrastructure and customer financial data.
